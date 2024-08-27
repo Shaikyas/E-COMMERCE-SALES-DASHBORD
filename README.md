@@ -1,9 +1,9 @@
 # E-COMMERCE-SALES-DASHBORD 
 E-Commerce Sales Dashboard Project
 
-# Objective:
+ Objective:
    To develop an interactive dashboard that visualizes key e-commerce metrics, enabling stakeholders to monitor performance, identify trends, and make data-driven decisions.
-# Methods:
+ Methods:
 
  Data Collection:
 Gathered sales data, including metrics like profit, quantity, average order value (AOV), customer details, and product categories.
@@ -14,12 +14,12 @@ Conducted analysis to explore trends, customer behavior, and regional performanc
  Data Visualization: 
 Created various charts and KPIs to display critical metrics and insights on the dashboard.
 
-# Tools Used:
+ Tools Used:
 
  Google Colab: For data analysis and preprocessing.
  MS Excel: For data organization and preliminary calculations.
  Power BI (or equivalent): For creating the interactive dashboard and visualizations.
-#  Charts Used:
+  Charts Used:
 
 Profit by Month: Stacked column chart to show monthly profit trends, highlighting periods of loss and gain.
 
@@ -33,7 +33,7 @@ Profits by Sub-Category: Bar chart showing profit distribution across various su
 
 Quantity by Payment Method: Donut chart showcasing the distribution of quantities sold across different payment methods.
 
-# KPIs Included:
+ KPIs Included:
 
 Profit: Total profit generated.
 
@@ -41,7 +41,7 @@ Total Quantity: The overall quantity of products sold.
 
 Average Order Value (AOV): The average value of orders placed.
 
-# Insights:
+ Insights:
 
 Profit Trends: Significant profits were recorded in December, while losses occurred in May.
 
